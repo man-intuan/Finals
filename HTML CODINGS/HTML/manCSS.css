@@ -1,0 +1,68 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: normal;
+    text-align: center;
+
+    background-image: url("pexels-valiphotos-589840.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    border-radius: 0%;
+    border-width: 1px;
+    border-style: double;
+    border-color: #0a0a0a ;
+    color: #000000 ;
+    
+}
+
+#header { 
+    
+    border-style: double;
+    border-color: rgb(60, 60, 60);
+    border-width: 1px 1px 10px 1px;
+    border: 0px 0px 10px 0px;
+
+    background-color: rgba(0, 0, 0, .4); 
+
+}
+
+#top {
+    border-style: double;
+    border-color: rgb(60, 60, 60);
+    border-width: 1px 1px 10px 1px;
+
+    background-color: rgba(0, 0, 0, .4); 
+    
+   
+}
+
+a:hover {
+    
+    background-color: rgb(60, 60, 60);
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5%;
+    border-width: 5px;
+    border-style: double;
+    border-color: rgb(60, 60, 60); }
+
+h3 {
+    color: rgb(60, 60, 60);
+}
+h3:hover {
+    color: rgb(51, 4, 4) ;
+    background-color: rgb(60, 60, 60);
+    padding: 5px 5px;
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+
+
+}
